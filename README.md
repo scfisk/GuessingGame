@@ -4,7 +4,7 @@ This is a simple number guessing game created using java. It generates a random 
 
 I used this program as an opportunity to get more comfortable with basic Java syntax and structure. It was simple enough that I didn't get hung up on the complexity, but had enough meat for me to practice some aspect of Java that were new to me.
 
-[Software Demo Video](https://youtu.be/rnnNarJh7kM))
+[Software Demo Video](https://youtu.be/rnnNarJh7kM)
 
 # Development Environment
 
