@@ -23,3 +23,4 @@ I used Java so I could get more familiar with it.
 - Allow the user to choose the number range
 - Add error handling
 - Include classes so I can get used to inheritance in Java
+- Improve encapsulation of functions
