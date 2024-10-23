@@ -14,7 +14,7 @@ I used Java so I could get more familiar with it.
 
 # Useful Websites
 
-- [W3Schools]((https://www.w3schools.com/java/default.asp))
+- [W3Schools](https://www.w3schools.com/java/default.asp)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/java/?ref=outind)
 
 # Future Work
