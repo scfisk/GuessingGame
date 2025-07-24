@@ -10,7 +10,7 @@ I used this program as an opportunity to get more comfortable with basic Java sy
 
 I used InteliJ by JetBrains. I enjoy the JetBrains IDEs because they are intuitive and easy to use. 
 
-I used Java so I could get more familiar with it.
+I used Java for this project so I could get more familiar with it, as it's a language I have used very little.
 
 # Useful Websites
 
@@ -21,6 +21,6 @@ I used Java so I could get more familiar with it.
 
 - Make the hint an option that the user can select
 - Allow the user to choose the number range
-- Add error handling
+- Add additional error handling
 - Include classes so I can get used to inheritance in Java
 - Improve encapsulation of functions
